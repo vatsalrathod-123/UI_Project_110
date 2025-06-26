@@ -646,7 +646,7 @@ p {
   color: var(--secondary-color);
 }
 
-.about_wrapper .social-network a {
+.footer_wrapper .social-network a {
   width: 2.1875rem;
   height: 2.1875rem;
   margin: 0.5rem;
